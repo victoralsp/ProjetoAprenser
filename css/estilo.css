@@ -172,11 +172,15 @@ nav a {
 }
 
 .cursos_card_content {
-    height: fit-content;
+    height: 160px;
     padding: 2rem;
     border: 1px solid #ebebeb;
     border-radius: 0 0 8px 8px;
     border-top: transparent;
+}
+
+.cursos_card_content p {
+    color: rgb(44, 44, 44);
 }
 
 .escola {
